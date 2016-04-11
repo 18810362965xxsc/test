@@ -1,0 +1,28 @@
+.page-title{
+	font-size:20px;
+    width:444px;
+    height:250px;
+    position:relative;
+    margin:auto;
+    background:url(file:///Users/chenjing/Desktop/mynote/public/css/images/formbg.gif) 0 0 no-repeat #cbc8b2
+}
+.form-group{
+    font-size:14px;
+    text-align:left;
+}
+.page-nav{
+	padding:10px;
+	background-color:#ccc;
+	margin-bottom:30px;
+}
+.nav-home,
+.nav-quit,
+.nav-username,
+.nav-register,
+.nav-login{
+	margin:0 10px;
+}
+
+.err-info{
+	color:#f00;
+}

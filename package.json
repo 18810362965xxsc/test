@@ -1,0 +1,25 @@
+{
+  "name": "mynote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/18810362965xxsc/test.git"
+  },
+  "author": "cj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/18810362965xxsc/test/issues"
+  },
+  "homepage": "https://github.com/18810362965xxsc/test#readme"
+}
